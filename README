@@ -1,0 +1,44 @@
+The subrepositories are as follows:
+
+ARToolKitPlusTracker
+   Contains a modified version of the tracker plugin, with some bugfixes and change from simple to BCH markers
+
+helpful
+   Contains files will probably be useful. In particular, it contains a file with all required includes and libraries
+
+magicker
+   Contains ruby scripts that can prepare markers from the bch directory for printing, either directly to a sheet of paper or as a cube
+
+physorc
+   Contains my physical and orchestration layers. It runs as an Eclipse project.
+
+scripts
+   Contains helper scripts at the least, you will probably need pathConfig.sh and run_config.sh after tailoring them for your system
+
+vision
+   Contains the VisionSystem that handles pose recognition/ball finding. It is written in C++ and is a separate component.
+
+
+Dependencies:
+
+You will want your distribution versions of GStreamer, OpenCV, and Boost.
+If it does not include these, you will have to compile them yourself, but they are widely available.
+You may need additional software in order to interface with your webcam.
+
+You will also need LCM and Lejos. You may have to change the Eclipse project paths to reflect their installed locations.
+
+Getting started:
+
+As a barebones install, you will need -
+   helpful (for libs.tar.gz)
+   scripts (for pathConfig.sh and run_config.sh)
+   physorc, and
+   vision
+
+You can have these repositories wherever you like.
+However, you will need to extract libs.tar.gz and update pathConfig.sh to reflect the extracted path.
+That is, unless you have managed to get all these outdated libraries compiled on your own system.
+
+helpful / scripts work together to support vision. physorc stands alone in it's own right.
+See the respective subrepository README files for further information.
+
