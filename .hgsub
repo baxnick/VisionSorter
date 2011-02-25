@@ -1,7 +1,7 @@
-ARToolKitPlusTracker = ARToolKitPlusTracker
-helpful = helpful
-magicker = magicker
-physorc = physorc 
-scripts = scripts
-vision = vision
+ARToolKitPlusTracker = ssh://mercury@ben.axnick.com.au//home/hg/ARToolKitPlusTracker
+helpful = ssh://mercury@ben.axnick.com.au//home/hg/helpful
+magicker = ssh://mercury@ben.axnick.com.au//home/hg/magicker
+physorc = ssh://mercury@ben.axnick.com.au//home/hg/physorc 
+scripts = ssh://mercury@ben.axnick.com.au//home/hg/scripts
+vision = ssh://mercury@ben.axnick.com.au//home/hg/vision
 
