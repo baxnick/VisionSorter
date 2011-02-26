@@ -1,7 +1,7 @@
-VisionSorter-ARToolKitPlusTracker.git = ./VisionSorter-ARToolKitPlusTracker.git
-VisionSorter-helpful.git = ./VisionSorter-helpful.git
-VisionSorter-magicker.git = ./VisionSorter-magicker.git
-VisionSorter-physorc.git = ./VisionSorter-physorc.git
-VisionSorter-scripts.git = ./VisionSorter-scripts.git
-VisionSorter-vision.git = ./VisionSorter-vision.git
+VisionSorter-ARToolKitPlusTracker.git = ../VisionSorter-ARToolKitPlusTracker.git
+VisionSorter-helpful.git = ../VisionSorter-helpful.git
+VisionSorter-magicker.git = ../VisionSorter-magicker.git
+VisionSorter-physorc.git = ../VisionSorter-physorc.git
+VisionSorter-scripts.git = ../VisionSorter-scripts.git
+VisionSorter-vision.git = ../VisionSorter-vision.git
 
