@@ -1,7 +1,7 @@
-ARToolKitPlusTracker = ssh://mercury@ben.axnick.com.au//home/hg/ARToolKitPlusTracker
-helpful = ssh://mercury@ben.axnick.com.au//home/hg/helpful
-magicker = ssh://mercury@ben.axnick.com.au//home/hg/magicker
-physorc = ssh://mercury@ben.axnick.com.au//home/hg/physorc 
-scripts = ssh://mercury@ben.axnick.com.au//home/hg/scripts
-vision = ssh://mercury@ben.axnick.com.au//home/hg/vision
+ARToolKitPlusTracker = ssh+git://git@github.com/baxnick/VisionSorter-ARToolKitPlusTracker.git
+helpful = ssh+git://git@github.com/baxnick/VisionSorter-helpful.git
+magicker = ssh+git://git@github.com/baxnick/VisionSorter-magicker.git
+physorc = ssh+git://git@github.com/baxnick/VisionSorter-physorc.git
+scripts = ssh+git://git@github.com/baxnick/VisionSorter-scripts.git
+vision = ssh+git://git@github.com/baxnick/VisionSorter-vision.git
 
