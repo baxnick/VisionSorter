@@ -1,7 +1,7 @@
-ARToolKitPlusTracker = ssh+git://git@github.com/baxnick/VisionSorter-ARToolKitPlusTracker.git
-helpful = ssh+git://git@github.com/baxnick/VisionSorter-helpful.git
-magicker = ssh+git://git@github.com/baxnick/VisionSorter-magicker.git
-physorc = ssh+git://git@github.com/baxnick/VisionSorter-physorc.git
-scripts = ssh+git://git@github.com/baxnick/VisionSorter-scripts.git
-vision = ssh+git://git@github.com/baxnick/VisionSorter-vision.git
+ARToolKitPlusTracker = git+ssh://git@github.com/baxnick/VisionSorter-ARToolKitPlusTracker.git
+helpful = git+ssh://git@github.com/baxnick/VisionSorter-helpful.git
+magicker = git+ssh://git@github.com/baxnick/VisionSorter-magicker.git
+physorc = git+ssh://git@github.com/baxnick/VisionSorter-physorc.git
+scripts = git+ssh://git@github.com/baxnick/VisionSorter-scripts.git
+vision = git+ssh://git@github.com/baxnick/VisionSorter-vision.git
 
